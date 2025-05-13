@@ -21,7 +21,7 @@
 ### 🛠️ Technologies & Tools
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="Spring Boot" />
   <img width="12" />
