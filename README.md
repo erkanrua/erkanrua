@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Erkan and I'm a Senior Software Engineer from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Erkan and I'm a Senior Software Engineer from Türkiye</h2>
 
 ### 🚀 About Me
 
