@@ -65,5 +65,5 @@
 ### 🐍 GitHub Snake Animation
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/434f6ff8-3c68-4fe5-83f3-3b55954b9bf4" alt="Snake animation" />
+  <a href="https://github.com/erkanrua?tab=repositories"><img src="https://github.com/user-attachments/assets/434f6ff8-3c68-4fe5-83f3-3b55954b9bf4" alt="Snake animation" /></a>
 </div>
